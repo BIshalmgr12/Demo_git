@@ -1,1 +1,2 @@
 git diff --staged
+process this data for further use
